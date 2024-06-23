@@ -105,9 +105,9 @@ const Manager = () => {
 
       <div className="p-2 mt-5 md:mycontainer md:mt-0">
         <h1 className="text-4xl text-center font-bold">
-          <span className="text-green-500">&lt;</span>
+          <span className="text-yellow-500">&lt;</span>
           Pass
-          <span className="text-green-500">OP/&gt;</span>
+          <span className="text-yellow-500">OP/&gt;</span>
         </h1>
 
         <p className="text-center mt-2 text-md  pb-2 ">Your own password manager</p>
@@ -156,7 +156,7 @@ const Manager = () => {
           </div>
 
           <button
-            className="flex justify-center items-center bg-green-400 rounded-full px-7 py-3 w-fit hover:bg-green-300 gap-2 border border-green-900"
+            className="flex justify-center items-center bg-yellow-400 rounded-full px-7 py-3 w-fit hover:bg-yellow-300 gap-2 border border-yellow-900"
             onClick={savePassword}
           >
             <RiApps2AddFill size={23} />
