@@ -10,11 +10,6 @@ PassOP is a password management tool designed to securely store and manage your 
 - User-friendly interface for easy password management.
 
 
-## 👉 [**Visit Now**](https://passop-debu.netlify.app/)
-
-![Image](https://raw.githubusercontent.com/debapriyo007/Password-Manager/main/src/assets/Demo-Picture/demo_SC_V0.2.png)
-
-
 ## Technologies Used
     - React
     - Tailwind CSS
