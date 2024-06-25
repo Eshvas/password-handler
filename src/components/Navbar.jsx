@@ -12,7 +12,7 @@ const Navbar = () => {
                 <span className='text-yellow-500'>OP/&gt;</span>
             </div>
             {/* for buttons */}
-            <a target='_blank' href="https://github.com/debapriyo007">
+            <a target='_blank' href="https://github.com/Eshvas">
                 <button className='bg-yellow-700 flex my-5 justify-between
                 rounded-full items-center ring-white ring-1'>
                     <img className='invert-1 w-11 p-1' src="/icons/github-mark.svg" alt="GitHub" />
