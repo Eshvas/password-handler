@@ -1,4 +1,4 @@
-#  Password Manager 🚀
+#  Password Handler 🚀
 
 PassOP is a password management tool designed to securely store and manage your sensitive credentials as a website.
 
